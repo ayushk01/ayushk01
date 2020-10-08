@@ -44,6 +44,8 @@
 
 ---
 
+<img align='left' alt="ayushk01's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayushk01&show_icons=true&hide_border=true">
+
 [website]: http://ayushk.dx.am
 [twitter]: https://twitter.com/ayushk0fficial
 [instagram]: https://instagram.com/ayushk0fficial
