@@ -9,7 +9,7 @@
 - 🕸 I'm good at full stack web development.
 - 📱 I also do cross platform mobile app development.
 - 🤝 You can hire me for such work.
-- 🎵 I like music and 🎸 playing guitar.
+- 😆 I do enjoy CS memes, plz do share them and spread happiness.
 
 ### Connect with me:
 
