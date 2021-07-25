@@ -1,7 +1,7 @@
 ### Hi there, I'm Ayush - [ayushk01][website]👋
 
 [![Website](https://img.shields.io/website?label=ayushk.dx.am&style=for-the-badge&url=http%3A%2F%2Fayushk.dx.am)](http://ayushk.dx.am)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ayushk0fficial?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fayushk01&screen_name=ayushk0fficial)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ayushk0fficial?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fayushhhkk&screen_name=ayushhhkk)
 
 ## I'm a Student, Freelancer and Developer!
 
