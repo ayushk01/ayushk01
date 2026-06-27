@@ -15,4 +15,4 @@ and Play Store, all on AWS.
 
 **Currently exploring:** distributed systems, deeper AWS internals.
 
-🔗 [Portfolio](https://ayushk01.github.io) · [LinkedIn](https://www.linkedin.com/in/ayushk01) · [X](https://x.com/ayushhhkk_) · ✉️ ayushkashyaptx@gmail.com
+🔗 [Portfolio](https://ayushk01.github.io) · [LinkedIn](https://www.linkedin.com/in/ayushk01) · [X](https://x.com/ayushhhkk2) · ✉️ ayushkashyaptx@gmail.com
