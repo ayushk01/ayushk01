@@ -1,18 +1,22 @@
 ### Hi, I'm Ayush 👋
 
-I build production SaaS — the kind that has to survive real users.
+I build and operate healthcare software at scale.
 
-For the last three years I've built and scaled the platform at **DocPlix**
-(healthtech) from a single-tenant prototype into a multi-tenant SaaS running
-branded deployments for dozens of clinic chains and thousands of clinicians
-off one codebase — web, plus patient and clinician apps live on the App Store
-and Play Store, all on AWS.
+For ~4 years at **Docplix** I've built a multi-tenant, white-label **EHR /
+healthcare-SaaS** end-to-end — and I'm the **#1 all-time contributor to the
+core platform (~25% of the codebase)**. Today it serves **~2,160 active
+clinics, ~2,100+ doctors, and ~770K patients across 100+ specialties**,
+processing ~30,000 appointments a month — on one shared multi-tenant MySQL,
+plus a white-label layer of ~45 custom-branded deployments.
 
-- 🧱 Multi-tenant frontend architecture — theming, feature flags, tenant-isolated auth
-- 📱 React Native across iOS + Android, release engineering and all
-- ☁️ AWS application infra — ECS / Lambda / Fargate, RDS, DynamoDB, CloudFront
-- 🩺 Generalist by temperament: web, mobile, and the API in between
+- 🏥 **Multi-tenant EHR** — `organisationId` isolation, 1,000+ tables, per-org modules + branding
+- 🔌 **FHIR R4 / HL7** interoperability for India's **NDHM / ABDM**
+- 🎙️ **Clinical AI & speech** — an AI medical scribe ("Pāṇini"), Whisper fine-tuning, speech-to-text
+- 📱 **React Native** clinician + patient apps live on the App Store & Play Store (Hermes, Fastlane, CodePush)
+- 🛠️ **Tech lead** — GitHub org consolidation, deployment pipeline, ~50% AWS cost cut, RN 0.66.9→0.77.2
 
-**Currently exploring:** distributed systems, deeper AWS internals.
+**Stack:** TypeScript · Python · React · React Native · Node/Express · MySQL · Redis · Socket.io · AWS
 
-🔗 [Portfolio](https://ayushk01.github.io) · [LinkedIn](https://www.linkedin.com/in/ayushk01) · [X](https://x.com/ayushhhkk2) · ✉️ ayushkashyaptx@gmail.com
+🔭 **Open to senior engineering roles — remote or Australia relocation.**
+
+🔗 [Portfolio & case studies](https://ayushk01.github.io) · ✉️ ayushkashyaptx@gmail.com
