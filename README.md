@@ -12,6 +12,6 @@ For ~4 years I've built a multi-tenant, white-label **EHR / healthcare-SaaS** en
 
 **Stack:** TypeScript · Python · React · React Native · Node/Express · MySQL · Redis · Socket.io · AWS
 
-🔭 **Open to senior engineering roles — remote or Australia relocation.**
+🔭 **Open to senior engineering roles — remote or in office.**
 
 🔗 [Portfolio & case studies](https://ayushk01.github.io) · ✉️ ayushkashyaptx@gmail.com
